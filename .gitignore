@@ -3,6 +3,7 @@ packages/
 .vs/
 /Arkanoid/x64
 /Arkanoid/*.vcprojx.filters
+/Arkanoid/*.vcprojx
 /Arkanoid/*.user
 /Arkanoid/*.qrc
 /Arkanoid/*.ui
