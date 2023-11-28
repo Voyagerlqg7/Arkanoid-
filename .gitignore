@@ -1,0 +1,10 @@
+/Arkanoid.sln
+packages/
+.vs/
+/Arkanoid/x64
+/Arkanoid/*.vcprojx.filters
+/Arkanoid/*.user
+/Arkanoid/*.qrc
+/Arkanoid/*.ui
+/Arkanoid/*.config
+/Arkanoid/*.filters
